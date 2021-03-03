@@ -8,6 +8,10 @@ Javascript-jquery
 C
 C++
 Java (core+Advanced)
+
 Python Django
 
 Done here!
+
+Thank you :)
+
